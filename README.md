@@ -1,4 +1,4 @@
-### Proyecto
+# Proyecto
 Análisis de performance y segmentación de sucursales de una marca deportiva (Adidas) en Colombia: limpieza y EDA en Python, clustering de sucursales, análisis temporal de ventas, y creación de archivos listos para visualizar en Tableau (mapas, KPIs, series temporales, segmentación por clúster). Dataset público disponible en GitHub.
 
 ## Objetivos del proyecto
